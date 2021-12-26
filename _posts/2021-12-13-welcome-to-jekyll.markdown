@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "เรื่องอวกาศ"
 date:   2021-12-13 08:39:16 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## กล้องโทรทรรศน์อวกาศ เจมส์ เว็บบ์ เข้าสู่วงโคจรสำเร็จ มุ่งหน้าสู่จุดหมายห่างโลก 1.5 ล้าน กม.
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/15E6E/production/_122501798_03.png.webp) 
+##### กล้อง JWST ซึ่งพับตัวอยู่ในจรวด Ariane 5 ทะยานขึ้นจากฐานยิงปล่อยในเมืองโครูของเฟรนช์เกียนา  โดยกำหนดการเดิมจะส่งกล้อง JWST ขึ้นสู่ห้วงอวกาศในวันที่ 18 ธ.ค.ที่ผ่านมา แต่ถูกเลื่อนออกไปเป็นวันที่ 24 ธ.ค.เนื่องจากเกิดอุบัติเหตุระหว่างนำเข้าติดตั้งกับฐานยิงปล่อย โดยแถบยางที่รัดและหนีบตัวกล้องให้เข้าที่หลุดออก จนเกิดการสั่นสะเทือนในระดับที่น่าเป็นห่วงว่าโครงสร้างของกล้องที่บอบบางอาจเสียหายได้ หลังแก้ไขปัญหาข้างต้นแล้ว องค์การนาซาและองค์การอวกาศยุโรปได้ประกาศเลื่อนกำหนดปล่อยกล้อง JWST ออกไปอีกครั้ง ด้วยเหตุผลเกี่ยวกับสภาพอากาศ จากนั้นก็ได้ฤกษ์ในการปล่อยขึ้นสู่ห้วงอวกาศและเข้าสู่วงโคจรที่กำหนดไว้ได้สำเร็จ เมื่อช่วงค่ำราว 19.50 น. ของวันที่ 25 ธ.ค.ตามเวลาในประเทศไทย ซึ่งตรงกับช่วงเช้าวันคริสต์มาส ตามเวลามาตรฐานตะวันออก (EST) ของทวีปอเมริกา
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
+## โลกไร้แสงเหนือแต่มี "แสงเส้นศูนย์สูตร" เมื่อ 41,000 ปีก่อน หลังสนามแม่เหล็กโลกเปลี่ยนแปลง
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/B89B/production/_122495274_sunandearthmagneticfieldnasa-002.png.webp) 
+##### เหตุการณ์ลาส์ชอมป์ (Laschamps Event) หรือการที่สนามแม่เหล็กโลกอ่อนแรงลงจนเกิดการกลับขั้วในช่วงสั้น ๆ เมื่อราว 41,000 - 42,000 ปีก่อน อาจส่งผลกระทบรุนแรงต่อสิ่งแวดล้อมโลกและปรากฏการณ์ธรรมชาติมากกว่าที่เคยคิดกันไว้ นอกจากเหตุการณ์นี้อาจทำให้โลกเผชิญวิกฤตทางภูมิอากาศ จนสิ่งมีชีวิตหลายชนิดซึ่งอาจรวมถึงมนุษย์นีแอนเดอร์ทัลต้องสูญพันธุ์ไปแล้ว เหตุการณ์ลาส์ชอมป์ยังสามารถเคลื่อนย้ายแสงเหนือหรือ aurora borealis รวมทั้งแสงใต้หรือ aurora australis ให้มาปรากฏที่แถบเส้นศูนย์สูตรได้อีกด้วย นที่ประชุมสหภาพธรณีฟิสิกส์อเมริกัน (AGU) เมื่อวันที่ 17 ธ.ค.ที่ผ่านมา โดยนายอกนิษฐ์ มุโขปัทยาย นักศึกษาวิจัยระดับปริญญาเอกชาวอินเดีย จากมหาวิทยาลัยมิชิแกน วิทยาเขตแอนอาร์เบอร์ของสหรัฐฯ ได้นำเสนอผลวิเคราะห์ข้อมูลจากร่องรอยการกลับขั้วแม่เหล็กโลก ซึ่งพบในชั้นหินโบราณและประวัติความเคลื่อนไหวของภูเขาไฟในอดีต แล้วนำมาประมวลกับแบบจำลองการเกิดแสงเหนือในคอมพิวเตอร์ ผลคำนวณที่ได้พบว่าเมื่อ 41,000 ปีที่แล้ว สนามแม่เหล็กโลกอ่อนแรงลงจนเหลือเพียง 4% ของระดับความแข็งแกร่งในปัจจุบัน ส่งผลให้ผิวโลกด้านที่หันเข้าหาดวงอาทิตย์ในเวลากลางวันและต้องเผชิญกับแรงต้านจากลมสุริยะโดยตรง ไม่มีสนามแม่เหล็กโลกปกคลุมอยู่อีกต่อไป
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
